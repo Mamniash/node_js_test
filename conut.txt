@@ -1,0 +1,1 @@
+count words in text is 8
